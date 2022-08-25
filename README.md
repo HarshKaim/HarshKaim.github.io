@@ -1,4 +1,4 @@
-# Rishu1018.github.io
+# HarshKaim.github.io
 
 #Randomize : This will arrange the bars in the random order
 
@@ -21,4 +21,4 @@ Used :
 
 # Website Link :
 
-[Website](https://rishu1018.github.io/SortingVisualizer/)
+[Website](https://harshkaim.github.io/SortingVisualizer/)
